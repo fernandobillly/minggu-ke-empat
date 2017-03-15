@@ -1,3 +1,4 @@
+import java.util.scanner;
 public class IPMahasiswa {
   
     public IPMahasiswa() {
